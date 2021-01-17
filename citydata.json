@@ -112,5 +112,6 @@
 {"City": "Ramarama", "Region": "Auckland", "Island": "North Island"},
 {"City": "Parkvale", "Region": "Hawke's Bay", "Island": "North Island"},
 {"City": "Pukemoremore", "Region": "Waikato", "Island": "North Island"},
-{"City": "Tamahere", "Region": "Waikato", "Island": "North Island"}
+{"City": "Tamahere", "Region": "Waikato", "Island": "North Island"},
+{"City": "Karapiro", "Region": "Waikato", "Island": "North Island"}
 ]
