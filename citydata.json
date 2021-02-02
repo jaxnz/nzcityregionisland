@@ -116,5 +116,6 @@
 {"City": "Karapiro", "Region": "Waikato", "Island": "North Island"},
 {"City": "Clareville ", "Region": "Wellington", "Island": "North Island"},
 {"City": "Kahutara", "Region": "Manawatu-Wanganui", "Island": "North Island"},
-{"City": "Martinborough", "Region": "Manawatu-Wanganui", "Island": "North Island"}
+{"City": "Martinborough", "Region": "Manawatu-Wanganui", "Island": "North Island"},
+{"City": "Te Kopuru", "Region": "Northland", "Island": "North Island"}
 ]
