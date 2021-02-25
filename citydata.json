@@ -120,5 +120,6 @@
 {"City": "Te Kopuru", "Region": "Northland", "Island": "North Island"},
 {"City": "Ruawai", "Region": "Northland", "Island": "North Island"},
 {"City": "Aongatete", "Region": "Bay of Plenty", "Island": "North Island"},
-{"City": "Maungatautari", "Region": "Waikato", "Island": "North Island"}
+{"City": "Maungatautari", "Region": "Waikato", "Island": "North Island"},
+{"City": "Paerata", "Region": "Auckland", "Island": "North Island"}
 ]
