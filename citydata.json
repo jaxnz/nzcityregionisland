@@ -114,7 +114,7 @@
 {"City": "Pukemoremore", "Region": "Waikato", "Island": "North Island"},
 {"City": "Tamahere", "Region": "Waikato", "Island": "North Island"},
 {"City": "Karapiro", "Region": "Waikato", "Island": "North Island"},
-{"City": "Clareville ", "Region": "Wellington", "Island": "North Island"},
+{"City": "Clareville", "Region": "Wellington", "Island": "North Island"},
 {"City": "Kahutara", "Region": "Manawatu-Wanganui", "Island": "North Island"},
 {"City": "Martinborough", "Region": "Manawatu-Wanganui", "Island": "North Island"},
 {"City": "Te Kopuru", "Region": "Northland", "Island": "North Island"},
@@ -122,5 +122,6 @@
 {"City": "Aongatete", "Region": "Bay of Plenty", "Island": "North Island"},
 {"City": "Maungatautari", "Region": "Waikato", "Island": "North Island"},
 {"City": "Paerata", "Region": "Auckland", "Island": "North Island"},
-{"City": "Matawai", "Region": "Hawkes Bay", "Island": "North Island"}
+{"City": "Matawai", "Region": "Hawkes Bay", "Island": "North Island"},
+{"City": "Porirua", "Region": "Wellington", "Island": "North Island"}
 ]
