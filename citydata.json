@@ -134,5 +134,6 @@
 {"City": "Whangārei", "Region": "Northland", "Island": "North Island"},
 {"City": "Coopers Beach", "Region": "Northland", "Island": "North Island"},
 {"City": "Lower Hutt", "Region": "Wellington", "Island": "North Island"},
-{"City": "Havelock North", "Region": "Hawke's Bay", "Island": "North Island"}
+{"City": "Havelock North", "Region": "Hawke's Bay", "Island": "North Island"},
+{"City": "Tuakau", "Region": "Waikato", "Island": "North Island"}
 ]
