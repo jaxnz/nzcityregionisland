@@ -127,5 +127,6 @@
 {"City": "Richmond", "Region": "Tasman", "Island": "South Island"},
 {"City": "Mārahau", "Region": "Tasman", "Island": "South Island"},
 {"City": "Tapapa", "Region": "Waikato", "Island": "North Island"},
-{"City": "Ararimu", "Region": "Auckland", "Island": "North Island"}
+{"City": "Ararimu", "Region": "Auckland", "Island": "North Island"},
+{"City": "Putāruru", "Region": "Waikato", "Island": "North Island"}
 ]
