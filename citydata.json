@@ -136,5 +136,6 @@
 {"City": "Lower Hutt", "Region": "Wellington", "Island": "North Island"},
 {"City": "Havelock North", "Region": "Hawke's Bay", "Island": "North Island"},
 {"City": "Tuakau", "Region": "Waikato", "Island": "North Island"},
-{"City": "Woodside", "Region": "Wellington", "Island": "North Island"}
+{"City": "Woodside", "Region": "Wellington", "Island": "North Island"},
+{"City": "Tuturumuri", "Region": "Wellington", "Island": "North Island"}
 ]
