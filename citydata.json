@@ -130,5 +130,6 @@
 {"City": "Ararimu", "Region": "Auckland", "Island": "North Island"},
 {"City": "Putāruru", "Region": "Waikato", "Island": "North Island"},
 {"City": "Upper Hutt", "Region": "Wellington", "Island": "North Island"},
-{"City": "Ruakākā", "Region": "Northland", "Island": "North Island"}
+{"City": "Ruakākā", "Region": "Northland", "Island": "North Island"},
+{"City": "Whangārei", "Region": "Northland", "Island": "North Island"},
 ]
