@@ -124,5 +124,6 @@
 {"City": "Paerata", "Region": "Auckland", "Island": "North Island"},
 {"City": "Matawai", "Region": "Hawkes Bay", "Island": "North Island"},
 {"City": "Porirua", "Region": "Wellington", "Island": "North Island"},
-{"City": "Richmond", "Region": "Tasman", "Island": "South Island"}
+{"City": "Richmond", "Region": "Tasman", "Island": "South Island"},
+{"City": "Mārahau", "Region": "Tasman", "Island": "South Island"},
 ]
