@@ -143,5 +143,6 @@
 {"City": "Waipu", "Region": "Northland", "Island": "North Island"},
 {"City": "Hector", "Region": "West Coast", "Island": "South Island"},
 {"City": "Tīrau", "Region": "Waikato", "Island": "North Island"},
-{"City": "Hikutaia", "Region": "Waikato", "Island": "North Island"}
+{"City": "Hikutaia", "Region": "Waikato", "Island": "North Island"},
+{"City": "Waimana", "Region": "Bay of Plenty", "Island": "North Island"}
 ]
