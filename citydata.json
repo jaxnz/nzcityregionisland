@@ -141,5 +141,6 @@
 {"City": "Pokeno", "Region": "Waikato", "Island": "North Island"},
 {"City": "Lichfield", "Region": "Waikato", "Island": "North Island"},
 {"City": "Waipu", "Region": "Northland", "Island": "North Island"},
-{"City": "Hector", "Region": "West Coast", "Island": "South Island"}
+{"City": "Hector", "Region": "West Coast", "Island": "South Island"},
+{"City": "Tīrau", "Region": "Waikato", "Island": "North Island"}
 ]
