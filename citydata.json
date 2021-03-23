@@ -148,5 +148,6 @@
 {"City": "Ashhurst", "Region": "Manawatu-Wanganui", "Island": "North Island"},
 {"City": "Ihuraua", "Region": "Manawatu-Wanganui", "Island": "North Island"},
 {"City": "Hastings", "Region": "Hawke's Bay", "Island": "North Island"},
-{"City": "Taipa", "Region": "Northland", "Island": "North Island"}
+{"City": "Taipa", "Region": "Northland", "Island": "North Island"},
+{"City": "Lower Moutere", "Region": "Tasman", "Island": "South Island"}
 ]
