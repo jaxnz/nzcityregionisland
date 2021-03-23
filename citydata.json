@@ -146,5 +146,6 @@
 {"City": "Hikutaia", "Region": "Waikato", "Island": "North Island"},
 {"City": "Waimana", "Region": "Bay of Plenty", "Island": "North Island"},
 {"City": "Ashhurst", "Region": "Manawatu-Wanganui", "Island": "North Island"},
-{"City": "Ihuraua", "Region": "Manawatu-Wanganui", "Island": "North Island"}
+{"City": "Ihuraua", "Region": "Manawatu-Wanganui", "Island": "North Island"},
+{"City": "Hastings", "Region": "Hawke's Bay", "Island": "North Island"}
 ]
