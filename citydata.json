@@ -151,5 +151,6 @@
 {"City": "Taipa", "Region": "Northland", "Island": "North Island"},
 {"City": "Lower Moutere", "Region": "Tasman", "Island": "South Island"},
 {"City": "Ashley", "Region": "Canterbury", "Island": "South Island"},
-{"City": "Himatangi", "Region": "Manawatu-Wanganui", "Island": "North Island"}
+{"City": "Himatangi", "Region": "Manawatu-Wanganui", "Island": "North Island"},
+{"City": "Te Kauwhata", "Region": "Waikato", "Island": "North Island"}
 ]
