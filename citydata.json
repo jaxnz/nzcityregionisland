@@ -162,5 +162,6 @@
 {"City": "Tīnui", "Region": "Wellington", "Island": "North Island"},
 {"City": "Whakamārama", "Region": "Bay of Plenty", "Island": "North Island"},
 {"City": "Kawakawa", "Region": "Northland", "Island": "North Island"},
-{"City": "Waimangaroa", "Region": "West Coast", "Island": "South Island"}
+{"City": "Waimangaroa", "Region": "West Coast", "Island": "South Island"},
+{"City": "Arapuni", "Region": "Waikato", "Island": "North Island"}
 ]
