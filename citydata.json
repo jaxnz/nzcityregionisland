@@ -156,5 +156,6 @@
 {"City": "Woodend Beach", "Region": "Canterbury", "Island": "South Island"},
 {"City": "Waddington", "Region": "Canterbury", "Island": "South Island"},
 {"City": "Huinga", "Region": "Taranaki", "Island": "North Island"},
-{"City": "Waotu", "Region": "Waikato", "Island": "North Island"}
+{"City": "Waotu", "Region": "Waikato", "Island": "North Island"},
+{"City": "Napier", "Region": "Hawkes Bay", "Island": "North Island"}
 ]
