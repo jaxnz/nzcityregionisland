@@ -159,5 +159,6 @@
 {"City": "Waotu", "Region": "Waikato", "Island": "North Island"},
 {"City": "Napier", "Region": "Hawkes Bay", "Island": "North Island"},
 {"City": "Papamoa", "Region": "Bay of Plenty", "Island": "North Island"},
-{"City": "Tīnui", "Region": "Wellington", "Island": "North Island"}
+{"City": "Tīnui", "Region": "Wellington", "Island": "North Island"},
+{"City": "Whakamārama", "Region": "Bay of Plenty", "Island": "North Island"}
 ]
