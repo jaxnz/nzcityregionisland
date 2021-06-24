@@ -195,5 +195,6 @@
 {"City": "Kaihu", "Region": "Northland", "Island": "North Island"},
 {"City": "Charleston", "Region": "West Coast", "Island": "South Island"},
 {"City": "Whangaparāoa", "Region": "Auckland", "Island": "North Island"},
-{"City": "Whangaparaoa", "Region": "Auckland", "Island": "North Island"}
+{"City": "Whangaparaoa", "Region": "Auckland", "Island": "North Island"},
+{"City": "Takanini", "Region": "Auckland", "Island": "North Island"}
 ]
