@@ -181,5 +181,6 @@
 {"City": "Belgrove", "Region": "Tasman", "Island": "South Island"},
 {"City": "South Featherston", "Region": "Wellington", "Island": "North Island"},
 {"City": "Redwood Valley", "Region": "Tasman", "Island": "South Island"},
-{"City": "Moerewa", "Region": "Northland", "Island": "North Island"}
+{"City": "Moerewa", "Region": "Northland", "Island": "North Island"},
+{"City": "Mimi", "Region": "Taranaki", "Island": "North Island"}
 ]
