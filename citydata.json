@@ -179,5 +179,6 @@
 {"City": "Manutuke", "Region": "Gisborne", "Island": "North Island"},
 {"City": "Te Awamutu", "Region": "Waikato", "Island": "North Island"},
 {"City": "Belgrove", "Region": "Tasman", "Island": "South Island"},
-{"City": "South Featherston", "Region": "Wellington", "Island": "North Island"}
+{"City": "South Featherston", "Region": "Wellington", "Island": "North Island"},
+{"City": "Redwood Valley", "Region": "Tasman", "Island": "South Island"}
 ]
