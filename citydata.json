@@ -192,5 +192,6 @@
 {"City": "Waingawa", "Region": "Wellington", "Island": "North Island"},
 {"City": "Ocean Beach", "Region": "Wellington", "Island": "North Island"},
 {"City": "Puketotara", "Region": "Waikato", "Island": "North Island"},
-{"City": "Kaihu", "Region": "Northland", "Island": "North Island"}
+{"City": "Kaihu", "Region": "Northland", "Island": "North Island"},
+{"City": "Charleston", "Region": "West Coast", "Island": "South Island"}
 ]
