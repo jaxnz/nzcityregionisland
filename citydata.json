@@ -182,5 +182,6 @@
 {"City": "South Featherston", "Region": "Wellington", "Island": "North Island"},
 {"City": "Redwood Valley", "Region": "Tasman", "Island": "South Island"},
 {"City": "Moerewa", "Region": "Northland", "Island": "North Island"},
-{"City": "Mimi", "Region": "Taranaki", "Island": "North Island"}
+{"City": "Mimi", "Region": "Taranaki", "Island": "North Island"},
+{"City": "Maraekakaho", "Region": "Hawke's Bay", "Island": "North Island"}
 ]
