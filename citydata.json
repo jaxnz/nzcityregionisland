@@ -170,5 +170,6 @@
 {"City": "Pegasus", "Region": "Canterbury", "Island": "South Island"},
 {"City": "Longbush", "Region": "Wellington", "Island": "North Island"},
 {"City": "Māpua", "Region": "Tasman", "Island": "South Island"},
-{"City": "Gordonton", "Region": "Waikato", "Island": "North Island"}
+{"City": "Gordonton", "Region": "Waikato", "Island": "North Island"},
+{"City": "Waipatu", "Region": "Hawke's Bay", "Island": "North Island"}
 ]
