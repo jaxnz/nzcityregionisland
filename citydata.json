@@ -167,5 +167,6 @@
 {"City": "Galatea", "Region": "Bay of Plenty", "Island": "North Island"},
 {"City": "Te Teko", "Region": "Bay of Plenty", "Island": "North Island"},
 {"City": "Pāuatahanui", "Region": "Wellington", "Island": "North Island"},
-{"City": "Pegasus", "Region": "Canterbury", "Island": "South Island"}
+{"City": "Pegasus", "Region": "Canterbury", "Island": "South Island"},
+{"City": "Longbush", "Region": "Wellington", "Island": "North Island"}
 ]
