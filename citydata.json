@@ -185,5 +185,7 @@
 {"City": "Mimi", "Region": "Taranaki", "Island": "North Island"},
 {"City": "Maraekakaho", "Region": "Hawke's Bay", "Island": "North Island"},
 {"City": "Ōhope", "Region": "Bay of Plenty", "Island": "North Island"},
-{"City": "Ohope", "Region": "Bay of Plenty", "Island": "North Island"}
+{"City": "Ohope", "Region": "Bay of Plenty", "Island": "North Island"},
+{"City": "Waimārama", "Region": "Hawke's Bay", "Island": "North Island"},
+{"City": "Waimarama", "Region": "Hawke's Bay", "Island": "North Island"}
 ]
