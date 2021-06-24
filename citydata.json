@@ -193,5 +193,7 @@
 {"City": "Ocean Beach", "Region": "Wellington", "Island": "North Island"},
 {"City": "Puketotara", "Region": "Waikato", "Island": "North Island"},
 {"City": "Kaihu", "Region": "Northland", "Island": "North Island"},
-{"City": "Charleston", "Region": "West Coast", "Island": "South Island"}
+{"City": "Charleston", "Region": "West Coast", "Island": "South Island"},
+{"City": "Whangaparāoa", "Region": "Auckland", "Island": "North Island"},
+{"City": "Whangaparaoa", "Region": "Auckland", "Island": "North Island"}
 ]
