@@ -203,5 +203,6 @@
 {"City": "Riverhead", "Region": "Auckland", "Island": "North Island"},
 {"City": "Onewhero", "Region": "Waikato", "Island": "North Island"},
 {"City": "Maungakaramea", "Region": "Northland", "Island": "North Island"},
-{"City": "Haruru", "Region": "Northland", "Island": "North Island"}
+{"City": "Haruru", "Region": "Northland", "Island": "North Island"},
+{"City": "Ponatahi", "Region": "Wellington", "Island": "North Island"}
 ]
