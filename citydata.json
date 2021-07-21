@@ -198,5 +198,6 @@
 {"City": "Whangaparaoa", "Region": "Auckland", "Island": "North Island"},
 {"City": "Takanini", "Region": "Auckland", "Island": "North Island"},
 {"City": "Judgeford", "Region": "Wellington", "Island": "North Island"},
-{"City": "Silverdale", "Region": "Auckland", "Island": "North Island"}
+{"City": "Silverdale", "Region": "Auckland", "Island": "North Island"},
+{"City": "Mount Maunganui", "Region": "Bay of Plenty", "Island": "North Island"}
 ]
