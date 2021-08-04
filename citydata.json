@@ -208,5 +208,7 @@
 {"City": "Dairy Flat", "Region": "Auckland", "Island": "North Island"},
 {"City": "Springdale", "Region": "Waikato", "Island": "North Island"},
 {"City": "Tokanui", "Region": "Waikato", "Island": "North Island"},
-{"City": "Red Beach", "Region": "Auckland", "Island": "North Island"}
+{"City": "Red Beach", "Region": "Auckland", "Island": "North Island"},
+{"City": "Ahikōuka", "Region": "Wellington", "Island": "North Island"},
+{"City": "Ahikouka", "Region": "Wellington", "Island": "North Island"}
 ]
