@@ -206,5 +206,6 @@
 {"City": "Haruru", "Region": "Northland", "Island": "North Island"},
 {"City": "Ponatahi", "Region": "Wellington", "Island": "North Island"},
 {"City": "Dairy Flat", "Region": "Auckland", "Island": "North Island"},
-{"City": "Springdale", "Region": "Waikato", "Island": "North Island"}
+{"City": "Springdale", "Region": "Waikato", "Island": "North Island"},
+{"City": "Tokanui", "Region": "Waikato", "Island": "North Island"}
 ]
