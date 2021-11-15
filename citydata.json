@@ -231,5 +231,6 @@
 {"City": "Mangawhai", "Region": "Northland", "Island": "North Island"},
 {"City": "Puketapu", "Region": "Hawke's Bay", "Island": "North Island"},
 {"City": "Kokotau", "Region": "Wellington", "Island": "North Island"},
-{"City": "Hamurana", "Region": "Bay of Plenty", "Island": "North Island"}
+{"City": "Hamurana", "Region": "Bay of Plenty", "Island": "North Island"},
+{"City": "Muriwai", "Region": "Auckland", "Island": "North Island"}
 ]
