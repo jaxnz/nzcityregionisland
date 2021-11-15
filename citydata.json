@@ -220,5 +220,6 @@
 {"City": "Sherenden", "Region": "Hawke's Bay", "Island": "North Island"},
 {"City": "Bideford", "Region": "Manawatu-Wanganui", "Island": "North Island"},
 {"City": "Eureka", "Region": "Waikato", "Island": "North Island"},
-{"City": "Tauhei", "Region": "Waikato", "Island": "North Island"}
+{"City": "Tauhei", "Region": "Waikato", "Island": "North Island"},
+{"City": "Awakeri", "Region": "Bay of Plenty", "Island": "North Island"}
 ]
