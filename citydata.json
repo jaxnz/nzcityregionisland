@@ -234,5 +234,6 @@
 {"City": "Hamurana", "Region": "Bay of Plenty", "Island": "North Island"},
 {"City": "Muriwai", "Region": "Auckland", "Island": "North Island"},
 {"City": "Pōkeno", "Region": "Auckland", "Island": "North Island"},
-{"City": "Piopio", "Region": "Waikato", "Island": "North Island"}
+{"City": "Piopio", "Region": "Waikato", "Island": "North Island"},
+{"City": "Mokihinui", "Region": "Tasman", "Island": "South Island"}
 ]
