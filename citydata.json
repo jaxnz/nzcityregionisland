@@ -237,5 +237,6 @@
 {"City": "Piopio", "Region": "Waikato", "Island": "North Island"},
 {"City": "Mokihinui", "Region": "Tasman", "Island": "South Island"},
 {"City": "Whakatāne", "Region": "Bay of Plenty", "Island": "North Island"},
-{"City": "Wainui", "Region": "Bay of Plenty", "Island": "North Island"}
+{"City": "Wainui", "Region": "Bay of Plenty", "Island": "North Island"},
+{"City": "Manawahe", "Region": "Bay of Plenty", "Island": "North Island"}
 ]
