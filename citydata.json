@@ -240,5 +240,6 @@
 {"City": "Wainui", "Region": "Bay of Plenty", "Island": "North Island"},
 {"City": "Manawahe", "Region": "Bay of Plenty", "Island": "North Island"},
 {"City": "Whenuapai", "Region": "Auckland", "Island": "North Island"},
-{"City": "Carrington", "Region": "Manawatu-Wanganui", "Island": "North Island"}
+{"City": "Carrington", "Region": "Manawatu-Wanganui", "Island": "North Island"},
+{"City": "Eyrewell Forest", "Region": "Canterbury", "Island": "South Island"}
 ]
