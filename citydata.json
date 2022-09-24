@@ -242,5 +242,6 @@
 {"City": "Whenuapai", "Region": "Auckland", "Island": "North Island"},
 {"City": "Carrington", "Region": "Manawatu-Wanganui", "Island": "North Island"},
 {"City": "Eyrewell Forest", "Region": "Canterbury", "Island": "South Island"},
-{"City": "Peria", "Region": "Northland", "Island": "North Island"}
+{"City": "Peria", "Region": "Northland", "Island": "North Island"},
+{"City": "Piarere", "Region": "Waikato", "Island": "North Island"}
 ]
