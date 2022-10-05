@@ -250,5 +250,6 @@
 {"City": "Maraetotara", "Region": "Hawke's Bay", "Island": "North Island"},
 {"City": "Kaituna", "Region": "Wellington", "Island": "North Island"},
 {"City": "Tahawai", "Region": "Bay of Plenty", "Island": "North Island"},
-{"City": "Brixton", "Region": "Taranaki", "Island": "North Island"}
+{"City": "Brixton", "Region": "Taranaki", "Island": "North Island"},
+{"City": "Mahana", "Region": "Tasman", "Island": "South Island"}
 ]
