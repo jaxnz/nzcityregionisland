@@ -252,5 +252,6 @@
 {"City": "Tahawai", "Region": "Bay of Plenty", "Island": "North Island"},
 {"City": "Brixton", "Region": "Taranaki", "Island": "North Island"},
 {"City": "Mahana", "Region": "Tasman", "Island": "South Island"},
-{"City": "Karikari Peninsula", "Region": "Northland", "Island": "North Island"}
+{"City": "Karikari Peninsula", "Region": "Northland", "Island": "North Island"},
+{"City": "Woodville", "Region": "Manawatu-Wanganui", "Island": "North Island"}
 ]
