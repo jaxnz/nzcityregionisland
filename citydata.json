@@ -260,5 +260,6 @@
 {"City": "Ōtāne", "Region": "Hawke's Bay", "Island": "North Island"},
 {"City": "Pukekohe East", "Region": "Auckland", "Island": "North Island"},
 {"City": "Mauriceville", "Region": "Manawatu-Wanganui", "Island": "North Island"},
-{"City": "Appleby", "Region": "Tasman", "Island": "South Island"}
+{"City": "Appleby", "Region": "Tasman", "Island": "South Island"},
+{"City": "Waerenga", "Region": "Waikato", "Island": "North Island"}
 ]
