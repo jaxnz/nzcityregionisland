@@ -257,5 +257,6 @@
 {"City": "Dyerville", "Region": "Wellington", "Island": "North Island"},
 {"City": "Tangowahine", "Region": "Northland", "Island": "North Island"},
 {"City": "Ngongotahā Valley", "Region": "Bay of Plenty", "Island": "North Island"},
-{"City": "Ōtāne", "Region": "Hawke's Bay", "Island": "North Island"}
+{"City": "Ōtāne", "Region": "Hawke's Bay", "Island": "North Island"},
+{"City": "Pukekohe East", "Region": "Auckland", "Island": "North Island"}
 ]
