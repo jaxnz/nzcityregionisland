@@ -262,5 +262,6 @@
 {"City": "Mauriceville", "Region": "Manawatu-Wanganui", "Island": "North Island"},
 {"City": "Appleby", "Region": "Tasman", "Island": "South Island"},
 {"City": "Waerenga", "Region": "Waikato", "Island": "North Island"},
-{"City": "Paekākāriki Hill", "Region": "Wellington", "Island": "North Island"}
+{"City": "Paekākāriki Hill", "Region": "Wellington", "Island": "North Island"},
+{"City": "Reporoa", "Region": "Bay of Plenty", "Island": "North Island"}
 ]
