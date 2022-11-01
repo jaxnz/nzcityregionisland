@@ -266,5 +266,6 @@
 {"City": "Reporoa", "Region": "Bay of Plenty", "Island": "North Island"},
 {"City": "Matakohe", "Region": "Northland", "Island": "North Island"},
 {"City": "Fairdown", "Region": "West Coast", "Island": "South Island"},
-{"City": "Umawera", "Region": "Northland", "Island": "North Island"}
+{"City": "Umawera", "Region": "Northland", "Island": "North Island"},
+{"City": "Cape Foulwind", "Region": "West Coast", "Island": "South Island"}
 ]
