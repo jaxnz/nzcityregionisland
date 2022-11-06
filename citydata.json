@@ -269,5 +269,6 @@
 {"City": "Umawera", "Region": "Northland", "Island": "North Island"},
 {"City": "Cape Foulwind", "Region": "West Coast", "Island": "South Island"},
 {"City": "Waikaretu", "Region": "Waikato", "Island": "North Island"},
-{"City": "Flaxton", "Region": "Canterbury", "Island": "South Island"}
+{"City": "Flaxton", "Region": "Canterbury", "Island": "South Island"},
+{"City": "Kaeo", "Region": "Northland", "Island": "North Island"}
 ]
