@@ -270,5 +270,6 @@
 {"City": "Cape Foulwind", "Region": "West Coast", "Island": "South Island"},
 {"City": "Waikaretu", "Region": "Waikato", "Island": "North Island"},
 {"City": "Flaxton", "Region": "Canterbury", "Island": "South Island"},
-{"City": "Kaeo", "Region": "Northland", "Island": "North Island"}
+{"City": "Kaeo", "Region": "Northland", "Island": "North Island"},
+{"City": "Tolaga Bay", "Region": "Bay of Plenty", "Island": "North Island"}
 ]
