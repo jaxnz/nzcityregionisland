@@ -273,5 +273,6 @@
 {"City": "Kaeo", "Region": "Northland", "Island": "North Island"},
 {"City": "Tolaga Bay", "Region": "Bay of Plenty", "Island": "North Island"},
 {"City": "Motueka Valley", "Region": "Tasman", "Island": "South Island"},
-{"City": "Alfredton", "Region": "Manawatu-Wanganui", "Island": "North Island"}
+{"City": "Alfredton", "Region": "Manawatu-Wanganui", "Island": "North Island"},
+{"City": "Paraparaumu", "Region": "Wellington", "Island": "North Island"}
 ]
