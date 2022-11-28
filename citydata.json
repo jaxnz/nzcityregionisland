@@ -276,5 +276,6 @@
 {"City": "Alfredton", "Region": "Manawatu-Wanganui", "Island": "North Island"},
 {"City": "Paraparaumu", "Region": "Wellington", "Island": "North Island"},
 {"City": "Waimate North", "Region": "Northland", "Island": "North Island"},
-{"City": "Rotoorangi", "Region": "Waikato", "Island": "North Island"}
+{"City": "Rotoorangi", "Region": "Waikato", "Island": "North Island"},
+{"City": "Pirinoa", "Region": "Wellington", "Island": "North Island"}
 ]
