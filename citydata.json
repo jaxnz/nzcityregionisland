@@ -322,5 +322,6 @@
 {"City": "Albany", "Region": "Auckland", "Island": "North Island"},
 {"City": "Raupunga", "Region": "Hawke's Bay", "Island": "North Island"},
 {"City": "Ahiaruhe", "Region": "Wellington", "Island": "North Island"},
-{"City": "Arapohue", "Region": "Northland", "Island": "North Island"}
+{"City": "Arapohue", "Region": "Northland", "Island": "North Island"},
+{"City": "Morison Bush", "Region": "Wellington", "Island": "North Island"}
 ]
