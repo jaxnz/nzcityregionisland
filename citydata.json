@@ -285,5 +285,6 @@
 {"City": "Cust", "Region": "Canterbury", "Island": "South Island"},
 {"City": "Hope", "Region": "Tasman", "Island": "South Island"},
 {"City": "Wainuioru ", "Region": "Wellington", "Island": "North Island"},
-{"City": "Kaiapoi", "Region": "Canterbury", "Island": "South Island"}
+{"City": "Kaiapoi", "Region": "Canterbury", "Island": "South Island"},
+{"City": "Hoe-O-Tainui", "Region": "Waikato", "Island": "North Island"}
 ]
