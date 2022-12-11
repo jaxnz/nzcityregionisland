@@ -309,5 +309,6 @@
 {"City": "Rotoorangi", "Region": "Waikato", "Island": "North Island"},
 {"City": "Tawera", "Region": "Canterbury", "Island": "South Island"},
 {"City": "Raukawa", "Region": "Waikato", "Island": "North Island"},
-{"City": "Maungaturoto", "Region": "Northland", "Island": "North Island"}
+{"City": "Maungaturoto", "Region": "Northland", "Island": "North Island"},
+{"City": "Dyerville", "Region": "Wellington", "Island": "North Island"}
 ]
