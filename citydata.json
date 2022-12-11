@@ -281,5 +281,6 @@
 {"City": "Coalgate", "Region": "Canterbury", "Island": "South Island"},
 {"City": "Sheffield", "Region": "Canterbury", "Island": "South Island"},
 {"City": "Pōkeno", "Region": "Waikato", "Island": "North Island"},
-{"City": "Mangateparu", "Region": "Waikato", "Island": "North Island"}
+{"City": "Mangateparu", "Region": "Waikato", "Island": "North Island"},
+{"City": "Cust", "Region": "Canterbury", "Island": "South Island"}
 ]
