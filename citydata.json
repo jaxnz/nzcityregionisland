@@ -315,5 +315,6 @@
 {"City": "Maraetotara", "Region": "Hawke's Bay", "Island": "North Island"},
 {"City": "Whangara", "Region": "Gisborne", "Island": "North Island"},
 {"City": "Tangoio", "Region": "Hawke's Bay", "Island": "North Island"},
-{"City": "Pukekohe", "Region": "Auckland", "Island": "North Island"}
+{"City": "Pukekohe", "Region": "Auckland", "Island": "North Island"},
+{"City": "Dalefield", "Region": "Wellington", "Island": "North Island"}
 ]
