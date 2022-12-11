@@ -279,5 +279,6 @@
 {"City": "Rotoorangi", "Region": "Waikato", "Island": "North Island"},
 {"City": "Pirinoa", "Region": "Wellington", "Island": "North Island"},
 {"City": "Coalgate", "Region": "Canterbury", "Island": "South Island"},
-{"City": "Sheffield", "Region": "Canterbury", "Island": "South Island"}
+{"City": "Sheffield", "Region": "Canterbury", "Island": "South Island"},
+{"City": "Pōkeno", "Region": "Waikato", "Island": "North Island"}
 ]
