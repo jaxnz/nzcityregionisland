@@ -302,5 +302,6 @@
 {"City": "Opiki", "Region": "Manawatu-Wanganui", "Island": "North Island"},
 {"City": "West Taratahi", "Region": "Wellington", "Island": "North Island"},
 {"City": "Edgecumbe", "Region": "Bay of Plenty", "Island": "North Island"},
-{"City": "Paekākāriki Hill", "Region": "Wellington", "Island": "North Island"}
+{"City": "Paekākāriki Hill", "Region": "Wellington", "Island": "North Island"},
+{"City": "Karamu", "Region": "Hawke's Bay", "Island": "North Island"}
 ]
