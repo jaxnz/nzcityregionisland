@@ -295,5 +295,6 @@
 {"City": "Waiau", "Region": "Canterbury", "Island": "South Island"},
 {"City": "Kokotau", "Region": "Wellington", "Island": "North Island"},
 {"City": "Hinakura", "Region": "Wellington", "Island": "North Island"},
-{"City": "Seddonville", "Region": "West Coast", "Island": "South Island"}
+{"City": "Seddonville", "Region": "West Coast", "Island": "South Island"},
+{"City": "Carters Beach", "Region": "West Coast", "Island": "South Island"}
 ]
