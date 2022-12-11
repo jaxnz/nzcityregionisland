@@ -289,5 +289,7 @@
 {"City": "Hoe-O-Tainui", "Region": "Waikato", "Island": "North Island"},
 {"City": "Carrington", "Region": "Wellington", "Island": "North Island"},
 {"City": "Cape Foulwind", "Region": "West Coast", "Island": "South Island"},
-{"City": "Gladstone", "Region": "Wellington", "Island": "North Island"}
+{"City": "Gladstone", "Region": "Wellington", "Island": "North Island"},
+{"City": "Tauherenikau", "Region": "Wellington", "Island": "North Island"},
+{"City": "Puketapu", "Region": "Hawke's Bay", "Island": "North Island"}
 ]
