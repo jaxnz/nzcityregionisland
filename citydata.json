@@ -284,5 +284,6 @@
 {"City": "Mangateparu", "Region": "Waikato", "Island": "North Island"},
 {"City": "Cust", "Region": "Canterbury", "Island": "South Island"},
 {"City": "Hope", "Region": "Tasman", "Island": "South Island"},
-{"City": "Wainuioru ", "Region": "Wellington", "Island": "North Island"}
+{"City": "Wainuioru ", "Region": "Wellington", "Island": "North Island"},
+{"City": "Kaiapoi", "Region": "Canterbury", "Island": "South Island"}
 ]
