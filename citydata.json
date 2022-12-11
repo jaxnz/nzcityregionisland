@@ -294,5 +294,6 @@
 {"City": "Puketapu", "Region": "Hawke's Bay", "Island": "North Island"},
 {"City": "Waiau", "Region": "Canterbury", "Island": "South Island"},
 {"City": "Kokotau", "Region": "Wellington", "Island": "North Island"},
-{"City": "Hinakura", "Region": "Wellington", "Island": "North Island"}
+{"City": "Hinakura", "Region": "Wellington", "Island": "North Island"},
+{"City": "Seddonville", "Region": "West Coast", "Island": "South Island"}
 ]
