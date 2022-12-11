@@ -299,5 +299,6 @@
 {"City": "Carters Beach", "Region": "West Coast", "Island": "South Island"},
 {"City": "Muriwai", "Region": "Auckland", "Island": "North Island"},
 {"City": "Peria", "Region": "Northland", "Island": "North Island"},
-{"City": "Opiki", "Region": "Manawatu-Wanganui", "Island": "North Island"}
+{"City": "Opiki", "Region": "Manawatu-Wanganui", "Island": "North Island"},
+{"City": "West Taratahi", "Region": "Wellington", "Island": "North Island"}
 ]
