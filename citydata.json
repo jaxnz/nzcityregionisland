@@ -307,5 +307,6 @@
 {"City": "Te Tii", "Region": "Northland", "Island": "North Island"},
 {"City": "Haumoana", "Region": "Hawke's Bay", "Island": "North Island"},
 {"City": "Rotoorangi", "Region": "Waikato", "Island": "North Island"},
-{"City": "Tawera", "Region": "Canterbury", "Island": "South Island"}
+{"City": "Tawera", "Region": "Canterbury", "Island": "South Island"},
+{"City": "Raukawa", "Region": "Waikato", "Island": "North Island"}
 ]
