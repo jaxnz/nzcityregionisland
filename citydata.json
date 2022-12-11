@@ -297,5 +297,6 @@
 {"City": "Hinakura", "Region": "Wellington", "Island": "North Island"},
 {"City": "Seddonville", "Region": "West Coast", "Island": "South Island"},
 {"City": "Carters Beach", "Region": "West Coast", "Island": "South Island"},
-{"City": "Muriwai", "Region": "Auckland", "Island": "North Island"}
+{"City": "Muriwai", "Region": "Auckland", "Island": "North Island"},
+{"City": "Peria", "Region": "Northland", "Island": "North Island"}
 ]
