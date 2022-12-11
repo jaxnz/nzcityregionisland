@@ -319,5 +319,6 @@
 {"City": "Dalefield", "Region": "Wellington", "Island": "North Island"},
 {"City": "Waiotahe", "Region": "Bay of Plenty", "Island": "North Island"},
 {"City": "Drury", "Region": "Auckland", "Island": "North Island"},
-{"City": "Albany", "Region": "Auckland", "Island": "North Island"}
+{"City": "Albany", "Region": "Auckland", "Island": "North Island"},
+{"City": "Raupunga", "Region": "Hawke's Bay", "Island": "North Island"}
 ]
