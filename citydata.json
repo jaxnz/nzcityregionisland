@@ -291,5 +291,6 @@
 {"City": "Cape Foulwind", "Region": "West Coast", "Island": "South Island"},
 {"City": "Gladstone", "Region": "Wellington", "Island": "North Island"},
 {"City": "Tauherenikau", "Region": "Wellington", "Island": "North Island"},
-{"City": "Puketapu", "Region": "Hawke's Bay", "Island": "North Island"}
+{"City": "Puketapu", "Region": "Hawke's Bay", "Island": "North Island"},
+{"City": "Waiau", "Region": "Canterbury", "Island": "South Island"}
 ]
