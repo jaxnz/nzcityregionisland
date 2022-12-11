@@ -311,5 +311,6 @@
 {"City": "Raukawa", "Region": "Waikato", "Island": "North Island"},
 {"City": "Maungaturoto", "Region": "Northland", "Island": "North Island"},
 {"City": "Dyerville", "Region": "Wellington", "Island": "North Island"},
-{"City": "Mauku", "Region": "Auckland", "Island": "North Island"}
+{"City": "Mauku", "Region": "Auckland", "Island": "North Island"},
+{"City": "Maraetotara", "Region": "Hawke's Bay", "Island": "North Island"}
 ]
