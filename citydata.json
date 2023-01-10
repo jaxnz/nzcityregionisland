@@ -331,5 +331,6 @@
 {"City": "Foxton Beach", "Region": "Manawatu-Wanganui", "Island": "North Island"},
 {"City": "Ruby Bay", "Region": "Tasman", "Island": "South Island"},
 {"City": "Waituhi", "Region": "Gisborne", "Island": "North Island"},
-{"City": "Pokuru", "Region": "Waikato", "Island": "North Island"}
+{"City": "Pokuru", "Region": "Waikato", "Island": "North Island"},
+{"City": "Lepperton", "Region": "Taranaki", "Island": "North Island"}
 ]
