@@ -328,5 +328,6 @@
 {"City": "Karaka", "Region": "Auckland", "Island": "North Island"},
 {"City": "Mamaranui", "Region": "Northland", "Island": "North Island"},
 {"City": "View Hill", "Region": "Canterbury", "Island": "South Island"},
-{"City": "Foxton Beach", "Region": "Manawatu-Wanganui", "Island": "North Island"}
+{"City": "Foxton Beach", "Region": "Manawatu-Wanganui", "Island": "North Island"},
+{"City": "Ruby Bay", "Region": "Tasman", "Island": "South Island"}
 ]
