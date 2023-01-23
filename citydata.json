@@ -334,5 +334,6 @@
 {"City": "Pokuru", "Region": "Waikato", "Island": "North Island"},
 {"City": "Lepperton", "Region": "Taranaki", "Island": "North Island"},
 {"City": "Waimata", "Region": "Waikato", "Island": "North Island"},
-{"City": "Te Ranga", "Region": "Bay of Plenty", "Island": "North Island"}
+{"City": "Te Ranga", "Region": "Bay of Plenty", "Island": "North Island"},
+{"City": "Aratapu", "Region": "Northland", "Island": "North Island"}
 ]
