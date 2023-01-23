@@ -337,5 +337,6 @@
 {"City": "Te Ranga", "Region": "Bay of Plenty", "Island": "North Island"},
 {"City": "Aratapu", "Region": "Northland", "Island": "North Island"},
 {"City": "Mamaku", "Region": "Bay of Plenty", "Island": "North Island"},
-{"City": "Wairau Valley", "Region": "Marlborough", "Island": "South Island"}
+{"City": "Wairau Valley", "Region": "Marlborough", "Island": "South Island"},
+{"City": "Kaihere", "Region": "Waikato", "Island": "North Island"}
 ]
