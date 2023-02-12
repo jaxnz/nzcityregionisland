@@ -350,5 +350,6 @@
 {"City": "Hurunui", "Region": "Canterbury", "Island": "South Island"},
 {"City": "Taihape", "Region": "Manawatu-Wanganui", "Island": "North Island"},
 {"City": "Arapohue", "Region": "Northland", "Island": "North Island"},
-{"City": "Glenbervie", "Region": "Northland", "Island": "North Island"}
+{"City": "Glenbervie", "Region": "Northland", "Island": "North Island"},
+{"City": "Tuki Tuki", "Region": "Hawke's Bay", "Island": "North Island"}
 ]
