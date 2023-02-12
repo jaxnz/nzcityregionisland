@@ -347,5 +347,6 @@
 {"City": "Moonshine Valley", "Region": "Wellington", "Island": "North Island"},
 {"City": "Kairanga", "Region": "Manawatu-Wanganui", "Island": "North Island"},
 {"City": "Tangiteroria", "Region": "Northland", "Island": "North Island"},
-{"City": "Hurunui", "Region": "Canterbury", "Island": "South Island"}
+{"City": "Hurunui", "Region": "Canterbury", "Island": "South Island"},
+{"City": "Taihape", "Region": "Manawatu-Wanganui", "Island": "North Island"}
 ]
