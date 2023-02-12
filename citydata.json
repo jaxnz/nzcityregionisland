@@ -341,5 +341,6 @@
 {"City": "Kaihere", "Region": "Waikato", "Island": "North Island"},
 {"City": "Te Miro", "Region": "Waikato", "Island": "North Island"},
 {"City": "Tairua", "Region": "Waikato", "Island": "North Island"},
-{"City": "Pareora", "Region": "Canterbury", "Island": "South Island"}
+{"City": "Pareora", "Region": "Canterbury", "Island": "South Island"},
+{"City": "Riwaka", "Region": "Tasman", "Island": "South Island"}
 ]
