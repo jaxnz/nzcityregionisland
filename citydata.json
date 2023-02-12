@@ -346,5 +346,6 @@
 {"City": "Poroporo", "Region": "Bay of Plenty", "Island": "North Island"},
 {"City": "Moonshine Valley", "Region": "Wellington", "Island": "North Island"},
 {"City": "Kairanga", "Region": "Manawatu-Wanganui", "Island": "North Island"},
-{"City": "Tangiteroria", "Region": "Northland", "Island": "North Island"}
+{"City": "Tangiteroria", "Region": "Northland", "Island": "North Island"},
+{"City": "Hurunui", "Region": "Canterbury", "Island": "South Island"}
 ]
