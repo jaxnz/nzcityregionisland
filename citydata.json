@@ -366,5 +366,6 @@
 {"City": "Hoanga", "Region": "Northland", "Island": "North Island"},
 {"City": "Reefton", "Region": "West Coast", "Island": "South Island"},
 {"City": "Ruakōkoputuna", "Region": "Wellington", "Island": "North Island"},
-{"City": "Reikorangi", "Region": "Wellington", "Island": "North Island"}
+{"City": "Reikorangi", "Region": "Wellington", "Island": "North Island"},
+{"City": "Waipapa", "Region": "Northland", "Island": "North Island"}
 ]
