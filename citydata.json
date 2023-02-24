@@ -357,5 +357,6 @@
 {"City": "Morison Bush", "Region": "Wellington", "Island": "North Island"},
 {"City": "Mangōnui", "Region": "Northland", "Island": "North Island"},
 {"City": "Glenbrook", "Region": "Auckland", "Island": "North Island"},
-{"City": "Bronte", "Region": "Tasman", "Island": "South Island"}
+{"City": "Bronte", "Region": "Tasman", "Island": "South Island"},
+{"City": "Pollok", "Region": "Auckland", "Island": "North Island"}
 ]
