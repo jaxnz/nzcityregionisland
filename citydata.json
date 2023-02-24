@@ -355,5 +355,6 @@
 {"City": "Richmond Downs", "Region": "Waikato", "Island": "North Island"},
 {"City": "Takapau", "Region": "Hawke's Bay", "Island": "North Island"},
 {"City": "Morison Bush", "Region": "Wellington", "Island": "North Island"},
-{"City": "Mangōnui", "Region": "Northland", "Island": "North Island"}
+{"City": "Mangōnui", "Region": "Northland", "Island": "North Island"},
+{"City": "Glenbrook", "Region": "Auckland", "Island": "North Island"}
 ]
