@@ -358,5 +358,6 @@
 {"City": "Mangōnui", "Region": "Northland", "Island": "North Island"},
 {"City": "Glenbrook", "Region": "Auckland", "Island": "North Island"},
 {"City": "Bronte", "Region": "Tasman", "Island": "South Island"},
-{"City": "Pollok", "Region": "Auckland", "Island": "North Island"}
+{"City": "Pollok", "Region": "Auckland", "Island": "North Island"},
+{"City": "Jacks Point", "Region": "Otago", "Island": "South Island"}
 ]
