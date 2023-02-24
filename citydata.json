@@ -362,5 +362,6 @@
 {"City": "Pollok", "Region": "Auckland", "Island": "North Island"},
 {"City": "Jacks Point", "Region": "Otago", "Island": "South Island"},
 {"City": "Onaero", "Region": "Taranaki", "Island": "North Island"},
-{"City": "Te Miro", "Region": "Waikato", "Island": "North Island"}
+{"City": "Te Miro", "Region": "Waikato", "Island": "North Island"},
+{"City": "Taupō Bay", "Region": "Northland", "Island": "North Island"}
 ]
