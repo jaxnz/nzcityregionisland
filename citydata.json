@@ -370,5 +370,6 @@
 {"City": "Puhoi", "Region": "Auckland", "Island": "North Island"},
 {"City": "Waipoua Forest", "Region": "Northland", "Island": "North Island"},
 {"City": "Glenduan", "Region": "Nelson", "Island": "South Island"},
-{"City": "Whangaroa", "Region": "Northland", "Island": "North Island"}
+{"City": "Whangaroa", "Region": "Northland", "Island": "North Island"},
+{"City": "East Taratahi", "Region": "Wellington", "Island": "North Island"}
 ]
