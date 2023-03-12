@@ -380,5 +380,6 @@
 {"City": "Whareora", "Region": "Northland", "Island": "North Island"},
 {"City": "Peebles", "Region": "Canterbury", "Island": "South Island"},
 {"City": "Ngatapa", "Region": "Gisborne", "Island": "North Island"},
-{"City": "West Eyreton", "Region": "Canterbury", "Island": "South Island"}
+{"City": "West Eyreton", "Region": "Canterbury", "Island": "South Island"},
+{"City": "Waipoua", "Region": "Northland", "Island": "North Island"}
 ]
