@@ -373,5 +373,6 @@
 {"City": "Whangaroa", "Region": "Northland", "Island": "North Island"},
 {"City": "East Taratahi", "Region": "Wellington", "Island": "North Island"},
 {"City": "Baylys Beach", "Region": "Northland", "Island": "North Island"},
-{"City": "Waipaoa", "Region": "Gisborne", "Island": "North Island"}
+{"City": "Waipaoa", "Region": "Gisborne", "Island": "North Island"},
+{"City": "Whangamatā", "Region": "Waikato", "Island": "North Island"}
 ]
