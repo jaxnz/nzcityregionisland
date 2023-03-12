@@ -377,5 +377,6 @@
 {"City": "Whangamatā", "Region": "Waikato", "Island": "North Island"},
 {"City": "Kihikihi", "Region": "Waikato", "Island": "North Island"},
 {"City": "Bulls", "Region": "Manawatu-Wanganui", "Island": "North Island"},
-{"City": "Whareora", "Region": "Northland", "Island": "North Island"}
+{"City": "Whareora", "Region": "Northland", "Island": "North Island"},
+{"City": "Peebles", "Region": "Canterbury", "Island": "South Island"}
 ]
