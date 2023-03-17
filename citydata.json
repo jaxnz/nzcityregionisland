@@ -393,5 +393,6 @@
 {"City": "Papatawa", "Region": "Manawatu-Wanganui", "Island": "North Island"},
 {"City": "Raetihi", "Region": "Manawatu-Wanganui", "Island": "North Island"},
 {"City": "Wairuna", "Region": "Canterbury", "Island": "South Island"},
-{"City": "Rongotea", "Region": "Manawatu-Wanganui", "Island": "North Island"}
+{"City": "Rongotea", "Region": "Manawatu-Wanganui", "Island": "North Island"},
+{"City": "Dalefield", "Region": "Wellington", "Island": "North Island"}
 ]
