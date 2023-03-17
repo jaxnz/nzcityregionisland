@@ -388,5 +388,6 @@
 {"City": "Okoroire", "Region": "Waikato", "Island": "North Island"},
 {"City": "Mangatangi", "Region": "Waikato", "Island": "North Island"},
 {"City": "Waiotira", "Region": "Northland", "Island": "North Island"},
-{"City": "Motunui", "Region": "Taranaki", "Island": "North Island"}
+{"City": "Motunui", "Region": "Taranaki", "Island": "North Island"},
+{"City": "Parore", "Region": "Northland", "Island": "North Island"}
 ]
