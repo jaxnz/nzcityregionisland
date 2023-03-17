@@ -392,5 +392,6 @@
 {"City": "Parore", "Region": "Northland", "Island": "North Island"},
 {"City": "Papatawa", "Region": "Manawatu-Wanganui", "Island": "North Island"},
 {"City": "Raetihi", "Region": "Manawatu-Wanganui", "Island": "North Island"},
-{"City": "Wairuna", "Region": "Canterbury", "Island": "South Island"}
+{"City": "Wairuna", "Region": "Canterbury", "Island": "South Island"},
+{"City": "Rongotea", "Region": "Manawatu-Wanganui", "Island": "North Island"}
 ]
