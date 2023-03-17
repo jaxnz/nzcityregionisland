@@ -386,5 +386,6 @@
 {"City": "Waikuku", "Region": "Canterbury", "Island": "South Island"},
 {"City": "Fernside", "Region": "Canterbury", "Island": "South Island"},
 {"City": "Okoroire", "Region": "Waikato", "Island": "North Island"},
-{"City": "Mangatangi", "Region": "Waikato", "Island": "North Island"}
+{"City": "Mangatangi", "Region": "Waikato", "Island": "North Island"},
+{"City": "Waiotira", "Region": "Northland", "Island": "North Island"}
 ]
