@@ -410,5 +410,6 @@
 {"City": "Twizel", "Region": "Canterbury", "Island": "South Island"},
 {"City": "Pongaroa", "Region": "Manawatu-Wanganui", "Island": "North Island"},
 {"City": "Pukekawa", "Region": "Waikato", "Island": "North Island"},
-{"City": "Upper Moutere", "Region": "Tasman", "Island": "South Island"}
+{"City": "Upper Moutere", "Region": "Tasman", "Island": "South Island"},
+{"City": "Wharepapa South", "Region": "Waikato", "Island": "North Island"}
 ]
