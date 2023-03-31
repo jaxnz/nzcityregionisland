@@ -412,5 +412,6 @@
 {"City": "Pukekawa", "Region": "Waikato", "Island": "North Island"},
 {"City": "Upper Moutere", "Region": "Tasman", "Island": "South Island"},
 {"City": "Wharepapa South", "Region": "Waikato", "Island": "North Island"},
-{"City": "Hikurangi", "Region": "Northland", "Island": "North Island"}
+{"City": "Hikurangi", "Region": "Northland", "Island": "North Island"},
+{"City": "Te Awanga", "Region": "Hawke's Bay", "Island": "North Island"}
 ]
