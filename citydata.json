@@ -411,5 +411,6 @@
 {"City": "Pongaroa", "Region": "Manawatu-Wanganui", "Island": "North Island"},
 {"City": "Pukekawa", "Region": "Waikato", "Island": "North Island"},
 {"City": "Upper Moutere", "Region": "Tasman", "Island": "South Island"},
-{"City": "Wharepapa South", "Region": "Waikato", "Island": "North Island"}
+{"City": "Wharepapa South", "Region": "Waikato", "Island": "North Island"},
+{"City": "Hikurangi", "Region": "Northland", "Island": "North Island"}
 ]
