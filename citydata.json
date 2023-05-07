@@ -420,5 +420,6 @@
 {"City": "Loburn", "Region": "Canterbury", "Island": "South Island"},
 {"City": "Omamari", "Region": "Northland", "Island": "North Island"},
 {"City": "Kumeū", "Region": "Auckland", "Island": "North Island"},
-{"City": "Hihi", "Region": "Northland", "Island": "North Island"}
+{"City": "Hihi", "Region": "Northland", "Island": "North Island"},
+{"City": "Stanley Brook", "Region": "Tasman", "Island": "South Island"}
 ]
